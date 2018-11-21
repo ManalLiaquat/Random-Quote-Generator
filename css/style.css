@@ -1,0 +1,16 @@
+#quote{
+    font-family: Lucida Calligraphy;
+    line-height: 2em;
+}
+
+#author{
+    font-family: Arial, Helvetica, sans-serif
+}
+
+body{
+    background-image: url(../img/background.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
